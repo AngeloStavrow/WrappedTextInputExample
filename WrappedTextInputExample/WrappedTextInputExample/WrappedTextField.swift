@@ -1,7 +1,5 @@
 import SwiftUI
 
-import SwiftUI
-
 struct WrappedTextField: UIViewRepresentable {
 
     class Coordinator: NSObject, UITextFieldDelegate {
